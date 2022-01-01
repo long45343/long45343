@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Age 18,Learning at SCAU(South China Agricultural University).
+Major in food Science&Engineering.
