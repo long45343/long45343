@@ -23,7 +23,7 @@ Programming is not my major but just hobby:)
 
 Technology lover.
 
-Compatible with Zh-CN,Zh-HK(Native), En-US(Not Very Fluent)
+Compatible with Zh-CN(Native),Zh-HK(Almost Native) , En-US(Not Very Fluent)
 
 Operating System:
 
