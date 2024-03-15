@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://www.tjupt.org/promotionlink.php?key=30ad42d2cf779d3df9fd191c8a281249"><img src="https://www.tjupt.org/assets/logo/logo_1x.png" alt="北洋园PT" title="北洋园PT"></a>
-
 Age 20,Major in food Science&Engineering.
 
 Programming is not my major but just hobby:)
