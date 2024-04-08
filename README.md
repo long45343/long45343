@@ -15,7 +15,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+20岁的食工人
+
+- 🔭 正在做一大堆微生物实验
+
+折腾程序只是爱好不是工作:)
+
+八年图把垃圾佬
+
+简中繁中均可,英语一般般(
+
+当前使用的系统:
+
+-Windows(PC)
+
+-Android(手机)
+
+-OpenWRT(路由器/NAS)
+
+--------------------------
+
 Age 20,Major in food Science&Engineering.
+
+- 🔭 I’m currently working on some microbiotica experiment.
 
 Programming is not my major but just hobby:)
 
@@ -25,8 +48,8 @@ Compatible with Zh-CN(Native),Zh-HK(Almost Native) , En-US(Not Very Fluent)
 
 Operating System:
 
--Windows
+-Windows(PC)
 
--Android
+-Android(Phone)
 
--OpenWRT
+-OpenWRT(Router/NAS)
