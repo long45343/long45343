@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 折腾程序只是爱好不是工作:)
 
-八年图把垃圾佬
+八年图吧垃圾佬
 
 简中繁中均可,英语一般般(
 
