@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 当前使用的系统:
 
--Windows(PC)
+-Windows(PC，AN515-58-74UK)
 
--Android(手机)
+-Android(手机，Redmi K60 Ultra（Corot）/Redmi K40（Alioth）)
 
--OpenWRT(路由器/NAS)
+-OpenWRT(路由器/NAS，HP T628，JD Cloud RE-CS-05/RE-CP-03/Redmi AX3000T)
 
 --------------------------
 
