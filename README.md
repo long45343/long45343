@@ -50,8 +50,8 @@ Compatible with Zh-CN(Native),Zh-HK(Almost Native) , En-US(Not Very Fluent)
 
 Operating System:
 
--Windows(PC)
+-Windows(PC，AN515-58-74UK)
 
--Android(Phone)
+-Android(Phone，Redmi K60 Ultra（Corot）/Redmi K40（Alioth）)
 
--OpenWRT(Router/NAS)
+-OpenWRT(Router/NAS，HP T628，JD Cloud RE-CS-05/RE-CP-03/Redmi AX3000T)
