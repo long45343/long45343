@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 -Android(手机，Redmi K60 Ultra（Corot）/Redmi K40（Alioth）)
 
--OpenWRT(路由器/NAS，HP T628，JD Cloud RE-CS-05/RE-CP-03/Redmi AX3000T)
+-OpenWRT(路由器/NAS，HP T628，JD Cloud RE-CS-05/RE-CP-03/Xiaomi AX3000T)
 
 --------------------------
 
