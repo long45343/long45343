@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-20岁的食工人
+21岁的食工人
 
-- 🔭 正在做一大堆微生物实验
+- 🔭 毕业继续读研咯
 - ⚽ 蓝月亮
 
 折腾程序只是爱好不是工作:)
@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 --------------------------
 
-Age 20,Major in food Science&Engineering.
+Age 21,Major in food Science&Engineering.
 
-- 🔭 I’m currently working on some microbiotica experiment.
+- 🔭 prepareing for master
 -  ⚽C'Mon CITY!
 
 Programming is not my major but just hobby:)
