@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-21岁的食工人
+22岁的食加人
 
 - 🔭 毕业继续读研咯
 - ⚽ 蓝月亮
@@ -29,17 +29,17 @@ Here are some ideas to get you started:
 
 当前使用的系统:
 
--Windows(PC，AN515-58-74UK)
+-Windows(PC，TUF-B650EM+9600X+9060XT)
 
--Android(手机，Redmi K60 Ultra（Corot）/Redmi K40（Alioth）)
+-Android(手机+平板，Redmi K60 Ultra（Corot）/Lenovo Legion TB321FU（Kirby）)
 
--OpenWRT(路由器/NAS，HP T628，JD Cloud RE-CS-05/RE-CP-03/Xiaomi AX3000T)
+-OpenWRT(路由器/NAS，HP T628，ASUS B150ET/M.2,CMCC RAX3000M eMMC)
 
 --------------------------
 
-Age 21,Major in food Science&Engineering.
+Age 22,Major in food Processing&Safety.
 
-- 🔭 prepareing for master
+- 🔭 mastering
 -  ⚽C'Mon CITY!
 
 Programming is not my major but just hobby:)
@@ -50,8 +50,8 @@ Compatible with Zh-CN(Native),Zh-HK(Almost Native) , En-US(Not Very Fluent)
 
 Operating System:
 
--Windows(PC，AN515-58-74UK)
+-Windows(PC，TUF-B650EM+9600X+9060XT)
 
--Android(Phone，Redmi K60 Ultra（Corot）/Redmi K40（Alioth）)
+-Android(Phone+Tablet，Redmi K60 Ultra（Corot）/Lenovo Legion TB321FU（Kirby）)
 
--OpenWRT(Router/NAS，HP T628，JD Cloud RE-CS-05/RE-CP-03/Redmi AX3000T)
+-OpenWRT(Router/NAS，HP T628，ASUS B150ET/M.2,CMCC RAX3000M eMMC))
