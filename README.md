@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 -Windows(PC，TUF-B650EM+9600X+9060XT)
 
--Android(手机+平板，Redmi K60 Ultra（Corot）/Lenovo Legion TB321FU（Kirby）)
+-Android(手机+平板，Redmi K70 Pro（Manet）/Lenovo Legion TB321FU（Kirby）)
 
 -OpenWRT(路由器/NAS，HP T628，ASUS B150ET/M.2,CMCC RAX3000M eMMC)
 
@@ -52,6 +52,6 @@ Operating System:
 
 -Windows(PC，TUF-B650EM+9600X+9060XT)
 
--Android(Phone+Tablet，Redmi K60 Ultra（Corot）/Lenovo Legion TB321FU（Kirby）)
+-Android(Phone+Tablet，Redmi K70 Pro（Manet）/Lenovo Legion TB321FU（Kirby）)
 
 -OpenWRT(Router/NAS，HP T628，ASUS B150ET/M.2,CMCC RAX3000M eMMC))
