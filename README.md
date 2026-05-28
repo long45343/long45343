@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 -Android(手机+平板，Redmi K70 Pro（Manet）/Lenovo Legion TB321FU（Kirby）)
 
--OpenWRT(路由器/NAS，HP T628，ASUS B150ET/M.2,CMCC RAX3000M eMMC)
+-OpenWRT(路由器/NAS，ASUS B150ET/M.2,联想Thinkcentre M710s)
 
 --------------------------
 
@@ -54,4 +54,4 @@ Operating System:
 
 -Android(Phone+Tablet，Redmi K70 Pro（Manet）/Lenovo Legion TB321FU（Kirby）)
 
--OpenWRT(Router/NAS，HP T628，ASUS B150ET/M.2,CMCC RAX3000M eMMC))
+-OpenWRT(Router/NAS，ASUS B150ET/M.2,Lenovo Thinkcentre M710s))
