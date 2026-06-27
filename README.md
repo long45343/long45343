@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 当前使用的系统:
 
--Windows(PC，TUF-B650EM+9600X+9060XT)
+-Windows(PC，TUF-B650EM+9600X+9060XT/ThinkPad X13 Gen2 intel)
 
 -Android(手机+平板，Redmi K70 Pro（Manet）/Lenovo Legion TB321FU（Kirby）)
 
@@ -50,7 +50,7 @@ Compatible with Zh-CN(Native),Zh-HK(Almost Native) , En-US(Not Very Fluent)
 
 Operating System:
 
--Windows(PC，TUF-B650EM+9600X+9060XT)
+-Windows(PC，TUF-B650EM+9600X+9060XT/ThinkPad X13 Gen2 intel)
 
 -Android(Phone+Tablet，Redmi K70 Pro（Manet）/Lenovo Legion TB321FU（Kirby）)
 
