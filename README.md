@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-22岁的食加人
+23岁的食加人
 
 - 🔭 毕业继续读研咯
 - ⚽ 蓝月亮
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 --------------------------
 
-Age 22,Major in food Processing&Safety.
+Age 23,Major in food Processing&Safety.
 
 - 🔭 mastering
 -  ⚽C'Mon CITY!
